@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @irene-fagnani
-- 🌱 I’m currently learning Mathematical Enineering - Statistical Learning at Politecnico di Milano
-- ✈️ Erasmus exchange student at LUT university (Lappeenranta, Finland) during Autumn Semester a.y. 2024/25
+- 🌱 MSc & BSc Mathematical Enineering - Statistical Learning at Politecnico di Milano
 - 📫 How to reach me: irenefagnani1@gmail.com irene.fagnani@mail.polimi.it
 - 😄 Pronouns: she/her
 
