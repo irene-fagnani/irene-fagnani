@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irene-fagnani
 - 🌱 MSc & BSc Mathematical Enineering - Statistical Learning at Politecnico di Milano
-- 📫 How to reach me: irenefagnani1@gmail.com irene.fagnani@mail.polimi.it
+- 📫 How to reach me: irenefagnani1@gmail.com irene.fagnani@ltu.se irene.fagnani@mail.polimi.it 
 - 😄 Pronouns: she/her
 
 <!---
