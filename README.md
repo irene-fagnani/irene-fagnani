@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @irene-fagnani
-- 🌱 MSc & BSc Mathematical Enineering - Statistical Learning at Politecnico di Milano
-- 📫 How to reach me: irenefagnani1@gmail.com irene.fagnani@ltu.se irene.fagnani@mail.polimi.it 
-- 😄 Pronouns: she/her
+# Hi, I'm Irene Fagnani 👋
+
+🎓 PhD student in Neuromorphic Computing at Luleå Tekniska Universitet
+
+---
+
+
+## 📫 Contact
+
+* ✉️ Email:irene.fagnani@ltu.se irenefagnani1@gmail.com
+* 🌐 Website: [Personal Page on LTU website](https://www.ltu.se/en/staff/i/irene-fagnani)
+---
+
 
 <!---
 irene-fagnani/irene-fagnani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
